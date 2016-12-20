@@ -2,4 +2,4 @@
 
 These laboratory works I have made in third term at MIPT for General Physics: Electricity and Magnetism course.
 
-Repository contains eight projects in Russian and README for each in English.
+Repository contains eight projects and manuals in Russian, tex and data files for each.
